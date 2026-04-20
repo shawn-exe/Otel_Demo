@@ -61,6 +61,4 @@ test/tracetesting/tracetesting-vars.yaml
 
 !src/currency/build
 
-github_key
-github_key.pub
 
